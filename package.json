@@ -1,0 +1,21 @@
+{
+  "name": "exploria",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^3.13.2",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "packageManager": "pnpm@9.12.1+sha256.91452fdfa46234ae447d46d5c4fc4e7e0a7058f90495c4b6f77f8beebbb154e3",
+  "devDependencies": {
+    "sass-embedded": "^1.80.5"
+  }
+}
